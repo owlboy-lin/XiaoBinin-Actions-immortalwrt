@@ -24,6 +24,7 @@ git clone -b main --depth 1 https://github.com/sirpdboy/luci-app-timecontrol.git
 
 # adguardhome
 # git clone -b 2024.09.05 --depth 1 https://github.com/XiaoBinin/luci-app-adguardhome.git
+git clone -b main --depth 1  https://github.com/kenzok78/luci-app-adguardhome
 
 # lucky
 git clone -b main --depth 1 https://github.com/gdy666/luci-app-lucky.git
@@ -33,7 +34,7 @@ git clone -b main --depth 1 https://github.com/gdy666/luci-app-lucky.git
 # git clone -b master --depth 1 https://github.com/pymumu/smartdns.git
 
 # ssrp
-# git clone -b master --depth 1 https://github.com/fw876/helloworld.git
+git clone -b master --depth 1 https://github.com/fw876/helloworld.git
 
 # VIKINGYFY/packages
 git clone -b main --depth 1 https://github.com/VIKINGYFY/packages.git
@@ -51,7 +52,7 @@ git clone -b v5 --depth 1 https://github.com/sbwml/luci-app-mosdns.git
 git clone -b master --depth 1 https://github.com/muink/luci-app-netspeedtest.git
 
 # openclash
-# git clone -b master --depth 1 https://github.com/vernesong/OpenClash.git
+git clone -b master --depth 1 https://github.com/vernesong/OpenClash.git
 
 # OpenWrt-nikki
 git clone -b main --depth 1 https://github.com/nikkinikki-org/OpenWrt-nikki.git
